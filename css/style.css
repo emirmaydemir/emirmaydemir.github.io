@@ -320,9 +320,9 @@ header .navbar ul li a:hover {
   width: 75%;
   animation: Flutter 3s;
 }
-.about .skill .Kotlin {
+.about .skill .Typescript {
   width: 60%;
-  animation: Kotlin 3s;
+  animation: Typescript 3s;
 }
 .about .skill .MSSQL {
   width: 100%;
@@ -340,9 +340,9 @@ header .navbar ul li a:hover {
   width: 100%;
   animation: Entity 3s;
 }
-.about .skill .Subversion {
+.about .skill .React_Js {
   width: 100%;
-  animation: Subversion 3s;
+  animation: React_Js 3s;
 }
 .about .skill .GitHub {
   width: 100%;
@@ -397,7 +397,7 @@ header .navbar ul li a:hover {
     width: 75%;
   }
 }
-@keyframes Kotlin {
+@keyframes Typescript {
   0% {
     width: 0%;
   }
@@ -437,7 +437,7 @@ header .navbar ul li a:hover {
     width: 100%;
   }
 }
-@keyframes Subversion {
+@keyframes React_Js {
   0% {
     width: 0%;
   }
